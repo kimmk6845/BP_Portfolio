@@ -1,0 +1,7 @@
+,Montage,PlayRatio,CanMove,FixedCamera
+1,AnimMontage'/Game/EasternAssassin/Montages/Fist/FistCombo1_Montage.FistCombo1_Montage',1.6,FALSE,TRUE
+2,AnimMontage'/Game/EasternAssassin/Montages/Fist/FistCombo2_Montage.FistCombo2_Montage',1.6,FALSE,TRUE
+3,AnimMontage'/Game/EasternAssassin/Montages/Fist/FistCombo3_Montage.FistCombo3_Montage',1.6,FALSE,TRUE
+4,AnimMontage'/Game/EasternAssassin/Montages/Fist/FistCombo4_Montage.FistCombo4_Montage',1.2,FALSE,TRUE
+5,AnimMontage'/Game/EasternAssassin/Montages/Fist/FistCombo5_Montage.FistCombo5_Montage',1.2,FALSE,TRUE
+6,AnimMontage'/Game/EasternAssassin/Montages/Fist/FistCombo6_Montage.FistCombo6_Montage',1.5,FALSE,TRUE
