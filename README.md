@@ -1,3 +1,3 @@
 # BP_Portfolio
 
-[![UE4 BP_Portfolio Final]](https://youtu.be/h-eOQnlb5ok)
+동영상 링크: [[UE4 BP_Portfolio Final]](https://youtu.be/h-eOQnlb5ok)
